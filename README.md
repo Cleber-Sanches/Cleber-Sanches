@@ -31,7 +31,7 @@ Atualmente, fui selecionado em um processo seletivo altamente competitivo na Cub
 </br>
 
 </p>
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" align="center" /> IDEs & Ferramentas & Outros</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" align="center" /> IDEs, Ferramentas e Outros</h2>
 </br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" style="width: 50px; height: 50px;">&nbsp;
