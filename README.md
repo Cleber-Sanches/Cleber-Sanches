@@ -10,17 +10,18 @@
   </a>
 </div>
 
-## Sobre-me
+<h1><img src="https://imgur.com/YDqtDY0.png"
+  width="50"/>Sobre-me</h1>
 
-Paraense apaixonado por tecnologia, animes e jogos. No meu tempo livre, aproveito para assistir animes e jogar, com "One Piece" sendo o meu anime favorito. Atualmente, moro em Maringá-Paraná<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="15" height="15" />.
+Paraense apaixonado por tecnologia, animes e jogos. No meu tempo livre, aproveito para assistir animes e jogar, com "One Piece" sendo o meu anime favorito. Atualmente, moro em Maringá-Paraná<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="13" align="center" />.
 
-<h3 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="20" height="20" align="center" />Conquista <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="20" height="20" /></h3>
+<h3 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="18.80"  align="baseline" />Conquista  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="18.80" align="baseline" /></h3>
 Atualmente, fui selecionado em um processo seletivo altamente competitivo na Cubos Academy, que teve mais de 30 mil candidatos. Estou focado no desenvolvimento backend.
 
 </br>
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="20" height="20" align="baseline" align="center"/> Meu objetivo </h3> Atuar como Desenvolvedor Back-end.
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="18.80"  align="baseline" align="center"/> Meu objetivo </h3> Atuar como Desenvolvedor Back-end.
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" align="center" /> Tecnologias</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" align="center"  /> Tecnologias</h2>
 </br>
 <p align="center">
    <img src="https://skillicons.dev/icons?i=html" style="width: 50px; height: 50px;">&nbsp;
@@ -34,7 +35,7 @@ Atualmente, fui selecionado em um processo seletivo altamente competitivo na Cub
 </br>
 
 </p>
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" align="center" /> IDEs, Ferramentas e Outros</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" align="baseline"  /> IDEs, Ferramentas e Outros</h2>
 </br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" style="width: 50px; height: 50px;">&nbsp;
