@@ -23,7 +23,6 @@ Atualmente, fui selecionado em um processo seletivo altamente competitivo na Cub
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" align="center" /> Tecnologias</h2>
 </br>
 <p align="center">
- 
    <img src="https://skillicons.dev/icons?i=html" style="width: 50px; height: 50px;">&nbsp;
     <img src="https://skillicons.dev/icons?i=css" style="width: 50px; height: 50px;">&nbsp;
      <img src="https://skillicons.dev/icons?i=javascript" style="width: 50px; height: 50px;">&nbsp;
