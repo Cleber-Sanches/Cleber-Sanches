@@ -14,7 +14,7 @@
 
 Paraense apaixonado por tecnologia, animes e jogos. No meu tempo livre, aproveito para assistir animes e jogar, com "One Piece" sendo o meu anime favorito. Atualmente, moro em Maringá-Paraná<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="15" height="15" />.
 
-<h3 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="20" height="20" align="baseline" /> Conquista <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="20" height="20" /></h3>
+<h3 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="20" height="20" align="center" />Conquista <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="20" height="20" /></h3>
 Atualmente, fui selecionado em um processo seletivo altamente competitivo na Cubos Academy, que teve mais de 30 mil candidatos. Estou focado no desenvolvimento backend.
 
 </br>
@@ -26,7 +26,8 @@ Atualmente, fui selecionado em um processo seletivo altamente competitivo na Cub
    <img src="https://skillicons.dev/icons?i=html" style="width: 50px; height: 50px;">&nbsp;
     <img src="https://skillicons.dev/icons?i=css" style="width: 50px; height: 50px;">&nbsp;
      <img src="https://skillicons.dev/icons?i=javascript" style="width: 50px; height: 50px;">&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" style="width: 50px; height: 50px;">&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" style="width
+: 50px; height: 50px;">&nbsp;
   <img src="https://skillicons.dev/icons?i=express" style="width: 50px; height: 50px;">
  
 
