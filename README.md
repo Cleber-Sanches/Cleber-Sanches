@@ -12,28 +12,19 @@
 
 <h1><img src="https://imgur.com/YDqtDY0.png"
   width="50"/>Sobre-me</h1>
-
 Paraense apaixonado por tecnologia, animes e jogos. No meu tempo livre, aproveito para assistir animes e jogar, com "One Piece" sendo o meu anime favorito. Atualmente, moro em Maringá-Paraná<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="13" align="center" />.
-
 <h3 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="18.80"  align="baseline" />Conquista  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="18.80" align="baseline" /></h3>
 Atualmente, fui selecionado em um processo seletivo altamente competitivo na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, que teve mais de 30 mil candidatos. Estou focado no desenvolvimento backend.
-
-</br>
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="18.80"  align="baseline" align="center"/> Meu objetivo </h3> Atuar como Desenvolvedor Back-end.
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" align="center"  /> Tecnologias</h2>
-</br>
+## Tecnologias
+
 <p align="center">
-   <img src="https://imgur.com/Ps0CWVT.png" style="width: 70px; ">&nbsp;
-    <img src="https://skillicons.dev/icons?i=css" style="width: 50px; height: 50px;">&nbsp;
-     <img src="https://skillicons.dev/icons?i=javascript" style="width: 50px; height: 50px;">&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" style="width
-: 50px; height: 50px;">&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" style="width: 50px; height: 50px;">
- 
-
-</br>
-
+   <img src="https://github.com/Cleber-Sanches/card-github/blob/main/html-2.svg" style="width: 50px;">
+  <img src="https://github.com/Cleber-Sanches/card-github/blob/main/css-2.svg" style="width: 50px;">
+  <img src="https://github.com/Cleber-Sanches/card-github/blob/main/javascript-2.svg" style="width: 50px; ">
+  <img src="https://github.com/Cleber-Sanches/card-github/blob/main/nodejs-2.svg" style="width: 50px; ">
+  <img src="https://github.com/Cleber-Sanches/card-github/blob/main/expressjs-2.svg" style="width: 50px; ">
 </p>
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" align="baseline"  /> IDEs, Ferramentas e Outros</h2>
 </br>
@@ -46,7 +37,6 @@ Atualmente, fui selecionado em um processo seletivo altamente competitivo na <a 
   <img src="https://skillicons.dev/icons?i=ps" style="width: 50px; height: 50px;">&nbsp;
   <img src="https://skillicons.dev/icons?i=discord" style="width: 50px; height: 50px;">&nbsp;
   <img src="https://i.imgur.com/vRtW8Ix.png" alt="Notion" style="width: 50px; height: 50px;">&nbsp;
-</br>
 </p>
 
 
