@@ -18,25 +18,26 @@ Atualmente, fui selecionado em um processo seletivo altamente competitivo na <a 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="18.80"  align="baseline" align="center"/> Meu objetivo </h3> Atuar como Desenvolvedor Back-end.
 
 ## Tecnologias
-
+</br>
 <p align="center">
-   <img src="https://github.com/Cleber-Sanches/card-github/blob/main/html-2.svg" style="width: 50px;">
-  <img src="https://github.com/Cleber-Sanches/card-github/blob/main/css-2.svg" style="width: 50px;">
-  <img src="https://github.com/Cleber-Sanches/card-github/blob/main/javascript-2.svg" style="width: 50px; ">
-  <img src="https://github.com/Cleber-Sanches/card-github/blob/main/nodejs-2.svg" style="width: 50px; ">
-  <img src="https://github.com/Cleber-Sanches/card-github/blob/main/expressjs-2.svg" style="width: 50px; ">
+   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/css.svg" style="width: 50px;">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/html.svg" style="width: 50px;">&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/javascript.svg" style="width: 50px;">&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/nodejs.svg" style="width: 50px;">&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/expressjs.svg" style="width: 50px;">
 </p>
+
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" align="baseline"  /> IDEs, Ferramentas e Outros</h2>
 </br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" style="width: 50px; height: 50px;">&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" style="width: 50px; height: 50px;">&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" style="width: 50px; height: 50px;">&nbsp;
-  <img src="https://imgur.com/teFrovt.png" style="width: 50px; height: 50px;">&nbsp;
-  <img src="https://skillicons.dev/icons?i=ai" style="width: 50px; height: 50px;">&nbsp;
-  <img src="https://skillicons.dev/icons?i=ps" style="width: 50px; height: 50px;">&nbsp;
-  <img src="https://skillicons.dev/icons?i=discord" style="width: 50px; height: 50px;">&nbsp;
-  <img src="https://i.imgur.com/vRtW8Ix.png" alt="Notion" style="width: 50px; height: 50px;">&nbsp;
+  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/git.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/vscode.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/github.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/insomnia.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/illustrator.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/ps.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/discord.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/notion.svg" alt="Notion" style="width: 50px; height: 50px;">
 </p>
 
 
