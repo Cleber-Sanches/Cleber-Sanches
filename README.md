@@ -10,14 +10,15 @@
   </a>
 </div>
 
-<h1><img src="https://imgur.com/YDqtDY0.png"
-  width="50"/>Sobre-me</h1>
-Paraense apaixonado por tecnologia, animes e jogos. No meu tempo livre, aproveito para assistir animes e jogar, com "One Piece" sendo o meu anime favorito. Atualmente, moro em Maringá-Paraná<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Round%20Pushpin.png" alt="Round Pushpin" width="13" align="center" />.
-<h3 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="18.80"  align="baseline" />Conquista  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="18.80" align="baseline" /></h3>
-Atualmente, fui selecionado em um processo seletivo altamente competitivo na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, que teve mais de 30 mil candidatos. Estou focado no desenvolvimento backend.
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="18.80"  align="baseline" align="center"/> Meu objetivo </h3> Atuar como Desenvolvedor Back-end.
+<h1> Sobre-me</h1> Paraense apaixonado por tecnologia, animes e jogos. No meu tempo livre, aproveito para assistir animes e jogar, com "One Piece" sendo o meu anime favorito. Atualmente, moro em Maringá-Paraná.
 
-## Tecnologias
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="18.80"  align="baseline" />Conquista  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="18.80" align="baseline" /></h3>
+Atualmente, fui selecionado em um processo seletivo altamente competitivo na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, que teve mais de 30 mil candidatos. Estou focado no desenvolvimento backend.<h3>
+ 
+ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="18.80"  align="baseline" align="center"/> Meu objetivo </h3> Atuar como Desenvolvedor Back-end.
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" align="baseline"/> Tecnologias</h2>
 </br>
 <p align="center">
    <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/css.svg" style="width: 50px;">&nbsp;&nbsp;&nbsp;
@@ -40,5 +41,8 @@ Atualmente, fui selecionado em um processo seletivo altamente competitivo na <a 
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/notion.svg" alt="Notion" style="width: 50px; height: 50px;">
 </p>
 
-
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" /> Estudando atualmente</h2>
+<p align="center">
+  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/postgresql.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
+</p>
 
