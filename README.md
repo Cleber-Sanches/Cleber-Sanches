@@ -4,7 +4,7 @@
 <div align="center">
   <a href="mailto:cleberSanches59@gmail.com" target="_blank">
     <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/email.svg" height="30" alt="gmail logo"  />
-  </a>
+  </a> &nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/cleber-sanches-024414230/" target="_blank">
     <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/linkedin.svg" height="30" alt="linkedin logo"/>
   </a>
