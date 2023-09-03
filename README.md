@@ -10,11 +10,11 @@
   </a>
 </div>
 
-<h2> Sobre mim</h2> Paraense apaixonado por tecnologia, animes e jogos. No meu tempo livre, aproveito para assistir animes e jogar, com "One Piece" sendo o meu anime favorito. Atualmente, moro em Maringá-Paraná.
+<h2> Sobre mim</h2> Paraense apaixonado por tecnologia que nas horas vagas adora assistir animes e jogar, sendo "One Piece" meu favorito. Atualmente residindo em Maringá-PR.
 
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="18.80"  align="baseline" />Conquista  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="18.80" align="baseline" /></h3>
-Atualmente, fui selecionado em um processo seletivo altamente competitivo na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, que teve mais de 30 mil candidatos. Estou focado no desenvolvimento backend.<h3>
+Atualmente, fui selecionado em um processo seletivo altamente competitivo na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, que teve mais de 30 mil candidatos com foco no desenvolvimento backend.<h3>
  
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="18.80"  align="baseline" align="center"/> Meu objetivo </h3> Atuar como Desenvolvedor Back-end.
 
