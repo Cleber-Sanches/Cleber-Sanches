@@ -3,10 +3,10 @@
 
 <div align="center">
   <a href="mailto:cleberSanches59@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/email.svg" height="30" alt="gmail logo"  />
   </a>
    <a href="https://www.linkedin.com/in/cleber-sanches-024414230/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
+    <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/linkedin.svg" height="30" alt="linkedin logo"/>
   </a>
 </div>
 
