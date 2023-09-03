@@ -3,14 +3,14 @@
 
 <div align="center">
   <a href="mailto:cleberSanches59@gmail.com" target="_blank">
-    <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/email.svg" height="28" alt="gmail logo"  />
+    <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/email.svg" height="26" alt="gmail logo"  />
   </a> &nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/cleber-sanches-024414230/" target="_blank">
-    <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/linkedin.svg" height="28" alt="linkedin logo"/>
+    <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/linkedin.svg" height="26" alt="linkedin logo"/>
   </a>
 </div>
 
-<h1> Sobre-me</h1> Paraense apaixonado por tecnologia, animes e jogos. No meu tempo livre, aproveito para assistir animes e jogar, com "One Piece" sendo o meu anime favorito. Atualmente, moro em Maringá-Paraná.
+<h2> Sobre mim</h2> Paraense apaixonado por tecnologia, animes e jogos. No meu tempo livre, aproveito para assistir animes e jogar, com "One Piece" sendo o meu anime favorito. Atualmente, moro em Maringá-Paraná.
 
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="18.80"  align="baseline" />Conquista  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="18.80" align="baseline" /></h3>
