@@ -10,16 +10,17 @@
   </a>
 </div>
 
-<h2> Sobre mim</h2> Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vagas adora assistir animes, sendo "One Piece" o meu favorito, e jogar.
+<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/sobre.svg"> 
+Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vagas adora assistir animes, sendo "One Piece" o meu favorito, e jogar.
 
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="18.80"  align="baseline" />Conquista  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="18.80" align="baseline" /></h3>
 Atualmente fui selecionado em um processo seletivo extremamente competitivo na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, que teve mais de 30 mil candidatos, com foco no desenvolvimento backend.<h3>
  
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="18.80"  align="baseline" align="center"/> Meu objetivo </h3> Atuar como Desenvolvedor Back-end.
-
 </br>
 </br>
+<!-- tecnologias -->
 <p align="center">
  <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/tecnologias-2.svg" style="width: 220px">
 </p>
@@ -33,6 +34,7 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
 </p>
 </br>
 </br>
+<!-- ferramentas -->
 <p align="center">
  <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/ferramentas.svg" style="width: 220px">
 </p>
@@ -48,6 +50,8 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/notion.svg" alt="Notion" style="width: 50px; height: 50px;">
 </p>
 </br>
+</br>
+<!-- estudando atualmente -->
 <p align="center">
  <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/estudandoatualmente.svg" style="width: 220px">
 </p>
@@ -56,7 +60,7 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/postgresql.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
 </p>
 </br>
-</br>
+<!-- cards repositorios -->
 <p align="center">
  <a href="https://github.com/Cleber-Sanches/Api-Animes"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/repositorio-api-anime.svg" style="width: 419px;">&nbsp;
  </a>
