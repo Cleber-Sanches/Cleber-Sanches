@@ -50,11 +50,9 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
 </br>
 </br>
 <p align="center">
- <a href="https://github.com/Cleber-Sanches/Api-Animes">
-  <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/repositorio-api-anime.svg" style="width: 420px;">&nbsp;
+ <a href="https://github.com/Cleber-Sanches/Api-Animes"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/repositorio-api-anime.svg" style="width: 420px;">&nbsp;
  </a>
- <a href="https://github.com/Cleber-Sanches/GitHub-Style-Icons">
-   <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/githubstyleicons.svg" style="width: 420px;">
+ <a href="https://github.com/Cleber-Sanches/GitHub-Style-Icons"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/githubstyleicons.svg" style="width: 420px;">
  </a>
 </p>
 
