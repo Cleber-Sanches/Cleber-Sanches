@@ -16,8 +16,16 @@ Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vaga
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="18.80"  align="baseline" />Conquista  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="18.80" align="baseline" /></h3>
 Atualmente fui selecionado em um processo seletivo extremamente competitivo na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, que teve mais de 30 mil candidatos, com foco no desenvolvimento backend.<h3>
+
+
+<!-- objetivo -->
+<div>
+ <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/objetivo.svg">
+ Atuar como Desenvolvedor Back-end.
+</div>
  
- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="18.80"  align="baseline" align="center"/> Meu objetivo </h3> Atuar como Desenvolvedor Back-end.
+              
+</br>
 </br>
 </br>
 <!-- tecnologias -->
