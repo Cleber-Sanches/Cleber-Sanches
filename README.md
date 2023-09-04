@@ -50,6 +50,6 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
 </br>
 </br>
 <p align="center">
- <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card%20projeto.svg">&nbsp;&nbsp;<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card%20projeto.svg">
+ <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card%20projeto.svg" style="width: 500px;">&nbsp;<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card%20projeto.svg" style="width: 500px;">
 </p>
 
