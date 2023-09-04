@@ -43,6 +43,7 @@ objetivo
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/html.svg" style="width: 50px;">&nbsp;&nbsp;&nbsp;
  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/javascript.svg" style="width: 50px;">&nbsp;&nbsp;&nbsp;
  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/nodejs.svg" style="width: 50px;">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/ruby.svg" style="width: 50px;">&nbsp;&nbsp;&nbsp;
  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/expressjs.svg" style="width: 50px;">
 </p>
 </br>
