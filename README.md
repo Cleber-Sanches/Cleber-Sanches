@@ -46,3 +46,10 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/postgresql.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
 </p>
 
+</br>
+</br>
+</br>
+<p align="center">
+ <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card%20projeto.svg" style="width: 500px">&nbsp;&nbsp;<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card%20projeto.svg" style="width: 500px">
+</p>
+
