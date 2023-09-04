@@ -49,7 +49,7 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
 </p>
 
 <p align="center">
- <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/estudando%20atualmente.svg" style="width: 220px">
+ <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/estudandoatualmente.svg" style="width: 220px">
 </p>
 </br>
 <p align="center">
