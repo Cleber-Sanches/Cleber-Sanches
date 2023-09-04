@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<h2> Sobre mim</h2> Paraense residindo em Maringá-PR, apaixonado por tecnologia que nas horas vagas adora assistir animes, sendo "One Piece" meu favorito e jogar.
+<h2> Sobre mim</h2> Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vagas adora assistir animes, sendo "One Piece" o meu favorito, e jogar.
 
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="18.80"  align="baseline" />Conquista  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="18.80" align="baseline" /></h3>
