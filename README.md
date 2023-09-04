@@ -47,7 +47,7 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/discord.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/notion.svg" alt="Notion" style="width: 50px; height: 50px;">
 </p>
-
+</br>
 <p align="center">
  <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/estudandoatualmente.svg" style="width: 220px">
 </p>
@@ -55,7 +55,6 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
 <p align="center">
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/postgresql.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
 </p>
-</br>
 </br>
 </br>
 <p align="center">
