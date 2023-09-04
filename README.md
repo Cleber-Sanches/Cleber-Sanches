@@ -18,7 +18,11 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
  
  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="18.80"  align="baseline" align="center"/> Meu objetivo </h3> Atuar como Desenvolvedor Back-end.
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Keyboard.png" alt="Keyboard" width="25" height="25" align="baseline"/> Tecnologias</h2>
+</br>
+</br>
+<p align="center">
+ <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/tecnologias-2.svg" style="width: 220px">
+</p>
 </br>
 <p align="center">
    <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/css.svg" style="width: 50px;">&nbsp;&nbsp;&nbsp;
@@ -27,8 +31,11 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/nodejs.svg" style="width: 50px;">&nbsp;&nbsp;&nbsp;
  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/expressjs.svg" style="width: 50px;">
 </p>
-
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" align="baseline"  /> IDEs, Ferramentas e Outros</h2>
+</br>
+</br>
+<p align="center">
+ <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/ferramentas.svg" style="width: 220px">
+</p>
 </br>
 <p align="center">
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/git.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
@@ -41,11 +48,13 @@ Atualmente fui selecionado em um processo seletivo extremamente competitivo na <
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/notion.svg" alt="Notion" style="width: 50px; height: 50px;">
 </p>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Writing Hand Medium-Light Skin Tone" width="25" height="25" /> Estudando atualmente</h2>
+<p align="center">
+ <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/estudando%20atualmente.svg" style="width: 220px">
+</p>
+</br>
 <p align="center">
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/postgresql.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
 </p>
-
 </br>
 </br>
 </br>
