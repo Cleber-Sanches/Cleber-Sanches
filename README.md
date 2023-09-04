@@ -9,6 +9,8 @@
     <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/linkedin.svg" height="26" alt="linkedin logo"/>
   </a>
 </div>
+</br>
+</br>
 <!--sobre-->
 <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/sobre.svg"> 
 Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vagas adora assistir animes, sendo "One Piece" o meu favorito, e jogar.
@@ -69,6 +71,7 @@ objetivo
 </br>
 <p align="center">
   <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/postgresql.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
+ <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/BEEKEEPER.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
 </p>
 </br>
 <!-- cards repositorios -->
