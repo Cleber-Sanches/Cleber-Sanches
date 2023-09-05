@@ -12,15 +12,14 @@
 </br>
 </br>
 <!--sobre-->
-<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/sobre.svg"> 
+<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/sobre.svg">
 Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vagas adora assistir animes, sendo "One Piece" o meu favorito, e jogar.
 </br>
 </br>
 <!--conquista-->
-<div>
-<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/conquista.svg"></br>
- Atualmente fui selecionado em um processo seletivo extremamente competitivo na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, que teve mais de 30 mil candidatos, com foco no desenvolvimento backend.
-objetivo
+<div> 
+ <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/conquista.svg"></br>
+ <p>Atualmente fui selecionado em um processo seletivo extremamente competitivo na <a href="https://cubos.academy/" target="_blank">Cubos Academy</a>, que teve mais de 30 mil candidatos, com foco no desenvolvimento backend.</p>
 </div>
 </br>
 <!-- Objetivo -->
