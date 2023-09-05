@@ -76,9 +76,9 @@ objetivo
 </br>
 <!-- cards repositorios -->
 <p align="center">
- <a href="https://github.com/Cleber-Sanches/Api-Animes"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/repositorio-api-anime.svg" style="width: 419px;">&nbsp;
+ <a href="https://github.com/Cleber-Sanches/Api-Animes"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card-Api-animes.svg" style="width: 419px;">&nbsp;
  </a>
- <a href="https://github.com/Cleber-Sanches/GitHub-Style-Icons"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/githubstyleicons.svg" style="width: 419px;">
+ <a href="https://github.com/Cleber-Sanches/GitHub-Style-Icons"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card-Api-animes.svg" style="width: 419px;">
  </a>
 </p>
 
