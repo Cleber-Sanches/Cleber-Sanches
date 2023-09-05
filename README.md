@@ -12,8 +12,10 @@
 </br>
 </br>
 <!--sobre-->
-<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/sobre.svg">
+<div>
+<img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/sobre.svg"></br>
 Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vagas adora assistir animes, sendo "One Piece" o meu favorito, e jogar.
+ </div>
 </br>
 </br>
 <!--conquista-->
