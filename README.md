@@ -78,7 +78,7 @@ objetivo
 <p align="center">
  <a href="https://github.com/Cleber-Sanches/Api-Animes"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card-Api-animes.svg" style="width: 415px;">&nbsp;&nbsp;&nbsp;
  </a>
- <a href="https://github.com/Cleber-Sanches/GitHub-Style-Icons"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card-Api-animes.svg" style="width: 415px;">
+ <a href="https://github.com/Cleber-Sanches/GitHub-Style-Icons"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card-GitHub-Style-Icons.svg" style="width: 415px;">
  </a>
 </p>
 
