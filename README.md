@@ -54,14 +54,14 @@ Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vaga
 </p>
 </br>
 <p align="center">
-  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/git.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/vscode.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/github.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/insomnia.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/illustrator.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/ps.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/discord.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/notion.svg" alt="Notion" style="width: 50px; height: 50px;">
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/git.svg" style="width: 55px; ">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/vscode.svg" style="width: 55px; ">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/github.svg" style="width: 55px; ">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/insomnia.svg" style="width: 55px; ">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/ai.svg" style="width: 55px; ">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/ps.svg" style="width: 55px; ">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/discord.svg" style="width: 55px; ">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/notion.svg" style="width: 55px; ">&nbsp;&nbsp;
 </p>
 </br>
 </br>
@@ -71,8 +71,8 @@ Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vaga
 </p>
 </br>
 <p align="center">
-  <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/postgresql.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
- <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/icons/BEEKEEPER.svg" style="width: 50px; height: 50px;">&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/postgresql.svg" style="width: 55px; ">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/beekeeper.svg" style="width: 55px; ">&nbsp;&nbsp;
 </p>
 </br>
 <!-- cards repositorios -->
