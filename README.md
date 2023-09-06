@@ -67,7 +67,7 @@ Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vaga
 </br>
 <!-- estudando atualmente -->
 <p align="center">
- <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/estudandoatualmente.svg" style="width: 220px">
+ <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/estudando.svg" style="width: 220px">
 </p>
 </br>
 <p align="center">
