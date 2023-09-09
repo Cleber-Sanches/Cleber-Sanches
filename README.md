@@ -83,3 +83,6 @@ Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vaga
  </a>
 </p>
 
+<div align="center">
+<img src="https://profile-counter.glitch.me/{Cleber-Sanches}/count.svg" style="width: 90px">
+ </div>
