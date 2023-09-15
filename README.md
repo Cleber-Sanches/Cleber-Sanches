@@ -16,7 +16,8 @@
 <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/sobre.svg"></br>
 Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vagas adora assistir animes, sendo "One Piece" o meu favorito, e jogar.
  </div>
-</br>
+</
+br>
 </br>
 <!--conquista-->
 <div> 
@@ -55,8 +56,9 @@ Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vaga
 </br>
 <p align="center">
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/git.svg" style="width: 55px; ">&nbsp;&nbsp;
+ <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/github.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/vscode.svg" style="width: 55px; ">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/github.svg" style="width: 55px; ">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/npm.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/insomnia.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/ai.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/ps.svg" style="width: 55px; ">&nbsp;&nbsp;
@@ -73,6 +75,7 @@ Paraense residente em Maringá-PR, apaixonado por tecnologia, que nas horas vaga
 <p align="center">
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/postgresql.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/beekeeper.svg" style="width: 55px; ">&nbsp;&nbsp;
+ <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/jwt.svg" style="width: 55px; ">
 </p>
 </br>
 <!-- cards repositorios -->
