@@ -55,8 +55,7 @@ br>
  <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/ferramentas-2.svg" style="width: 220px">
 </p>
 </br>
-<
-p align="center">
+<p align="center">
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/git.svg" style="width: 55px; ">&nbsp;&nbsp;
  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/github.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/vscode.svg" style="width: 55px; ">&nbsp;&nbsp;
