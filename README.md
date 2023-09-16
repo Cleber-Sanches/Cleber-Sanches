@@ -9,6 +9,7 @@
     <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/linkedin.svg" height="26" alt="linkedin logo"/>
   </a>
 </div>
+
 </br>
 </br>
 <!--sobre-->
@@ -74,7 +75,7 @@ br>
 </br>
 <p align="center">
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/postgresql.svg" style="width: 55px; ">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/beekeeper.svg" style="width: 55px; ">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/beekeeper-nome.svg" style="width: 55px; ">&nbsp;&nbsp;
  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/jwt.svg" style="width: 55px; ">
 </p>
 </br>
