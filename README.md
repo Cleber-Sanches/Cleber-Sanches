@@ -47,6 +47,7 @@ br>
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/css.svg" style="width: 55px;">&nbsp;&nbsp;
  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/javascript.svg" style="width: 55px;">&nbsp;&nbsp;
 <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/nodejs.svg" style="width: 55px;">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/postgresql.svg" style="width: 55px; ">&nbsp;&nbsp;
  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/expressjs.svg" style="width: 55px;">
 </p>
 </br>
@@ -62,12 +63,12 @@ br>
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/vscode.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/npm.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/insomnia.svg" style="width: 55px; ">&nbsp;&nbsp;
+  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/beekeeper.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/ai.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/ps.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/discord.svg" style="width: 55px; ">&nbsp;&nbsp;
   <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/notion.svg" style="width: 55px; ">&nbsp;&nbsp;
- <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/postgresql.svg" style="width: 55px; ">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/beekeeper.svg" style="width: 55px; ">&nbsp;&nbsp;
+ 
 </p>
 </br>
 </br>
