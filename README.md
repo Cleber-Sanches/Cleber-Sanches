@@ -2,18 +2,6 @@
 <h1 align="center">Olá!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /></h1>
 
 
-<img src="http://localhost:3000/icons?nomes=css,laravel,sdad,html">
-
-![](http://localhost:3000/icons/?nomes=css)
-
-
-![c](http://localhost:3000/icons/?nomes=css,laravel)
-
-![c](http://localhost:3000/icons?nomes=css,laravel)
-
-![c](http://localhost:3000/icons)
-
-
 
 <div align="center"> 
   <a href="mailto:cleberSanches59@gmail.com"
