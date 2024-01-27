@@ -1,15 +1,12 @@
- 
 <h1 align="center">Olá!<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /></h1>
-
-
 
 <div align="center"> 
   <a href="mailto:cleberSanches59@gmail.com"
  target="_blank">
-    <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/email.svg" height="26" alt="gmail logo"  />
+    <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/email.svg" height="26" alt="email logo"  />
   </a> &nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/cleber-sanches-024414230/" target="_blank">
-    <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/linkedin.svg" height="26" alt="linkedin logo"
+    <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/linkedin.svg" height="26" alt="LinkedIn logo"
 />
   </a>
 </div>
@@ -40,54 +37,34 @@ br>
 </br>
 </br>
 </br>
-<!-- tecnologias -->
+<h3 align="center">Tecnologias</h3>
+<br>
+<!-- tecnologias 
 <p align="center">
  <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/tecnologias-3.svg" style="width: 220px">
 </p>
 </br>
+-->
 <p align="center">
-   <img src
-="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/html.svg" style="width: 55px;">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/css.svg" style="width: 55px;">&nbsp;&nbsp;
- <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/javascript.svg" style="width: 55px;">&nbsp;&nbsp;
-<img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/nodejs.svg" style="width: 55px;">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/postgresql.svg" style="width: 55px; ">&nbsp;&nbsp;
- <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/expressjs.svg" style="width: 55px;">
-</p>
-</br>
-</br>
-<!-- ferramentas -->
-<p align="center">
- <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/ferramentas-2.svg" style="width: 220px">
-</p>
-</br>
-<p align="center">
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/git.svg" style="width: 55px; ">&nbsp;&nbsp;
- <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/github.svg" style="width: 55px; ">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/vscode.svg" style="width: 55px; ">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/npm.svg" style="width: 55px; ">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/insomnia.svg" style="width: 55px; ">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/beekeeper.svg" style="width: 55px; ">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/ai.svg" style="width: 55px; ">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/ps.svg" style="width: 55px; ">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/discord.svg" style="width: 55px; ">&nbsp;&nbsp;
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/notion.svg" style="width: 55px; ">&nbsp;&nbsp;
-
  
+ <img src="https://www.aikonbox.com.br/icons?i=html,css,javascript,nodejs,jwt,postgresql,express.js&t=55"/>
 </p>
-</br>
-</br>
-<!-- estudando atualmente -->
+
+<h3 align="center">Ferramentas</h3>
+<br>
+<!-- ferramentas 
+-->
 <p align="center">
- <img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/estudando.svg" style="width: 220px">
+  <img src="https://www.aikonbox.com.br/icons?i=git,github,vscode,npm,insomnia,beekeeper,illustrator,photoshop,discord,notion&t=55&p=5"/>
 </p>
-</br>
+
+<h3 align="center">Estudando</h3>
+
 <p align="center">
-  <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/react.svg" style="width: 55px; ">&nbsp;&nbsp;
- <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/icons-dark/icones-color-dark/jwt.svg" style="width: 55px; ">
+  <img src="https://www.aikonbox.com.br/icons?i=php,react&t=55"/>
 </p>
-</br>
-<!-- cards repositorios -->
+
+<!-- cards repositórios -->
 <p align="center">
  <a href="https://github.com/Cleber-Sanches/Api-Animes"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card-Api-animes.svg" style="width: 415px;">&nbsp;&nbsp;&nbsp;
  </a>
