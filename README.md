@@ -47,7 +47,7 @@ br>
 -->
 <p align="center">
  
- <img src="https://www.aikonbox.com.br/icons?i=html,css,javascript,nodejs,jwt,postgresql,express.js&t=55"/>
+ <img src="https://www.aikonbox.com.br/icons?i=html,css,javascript,nodejs,jwt,postgresql,expressjs&t=55&p=4"/>
 </p>
 
 <h3 align="center">Ferramentas</h3>
@@ -61,7 +61,7 @@ br>
 <h3 align="center">Estudando</h3>
 
 <p align="center">
-  <img src="https://www.aikonbox.com.br/icons?i=php,react&t=55"/>
+  <img src="https://www.aikonbox.com.br/icons?i=php,reactjs&t=55"/>
 </p>
 
 <!-- cards repositórios -->
