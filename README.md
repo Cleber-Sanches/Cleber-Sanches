@@ -4,7 +4,7 @@
   <a href="mailto:cleberSanches59@gmail.com"
  target="_blank">
     <img src="https://github.com/Cleber-Sanches/icons-github/blob/main/email.svg" height="26" alt="email logo"  />
-  </a> &nbsp;&nbsp;
+  </a> 
    <a href="https://www.linkedin.com/in/cleber-sanches-024414230/" target="_blank">
     <img src="https://github.com/Cleber-Sanches/GitHub-Style-Icons/blob/main/linkedin.svg" height="26" alt="LinkedIn logo"
 />
@@ -55,18 +55,24 @@ br>
 <!-- ferramentas 
 -->
 <p align="center">
-  <img src="https://www.aikonbox.com.br/icons?i=git,github,vscode,npm,insomnia,beekeeper,illustrator,photoshop,discord,notion&size=55&p=5"/>
+  <img src="https://www.aikonbox.com.br/icons?i=git,github,vscode,npm,insomnia,beekeeper,illustrator,photoshop,figma,discord,notion&size=55&perLine=5"/>
 </p>
 
 <h3 align="center">Estudando</h3>
 
 <p align="center">
-  <img src="https://www.aikonbox.com.br/icons?i=php,reactjs&size=55"/>
+  <img src="https://www.aikonbox.com.br/icons?i=typescript,reactjs&size=55"/>
+</p>
+
+<h3 align="center">Quero estudar</h3>
+
+<p align="center">
+  <img src="https://www.aikonbox.com.br/icons?i=php,nextjs,nestjs,prisma,tailwindcss&size=55"/>
 </p>
 
 <!-- cards repositórios -->
 <p align="center">
- <a href="https://github.com/Cleber-Sanches/Aikon-box"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card-aikon-box.svg" style="width: 415px;">&nbsp;&nbsp;&nbsp;
+ <a href="https://github.com/Cleber-Sanches/Aikon-box"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card-aikon-box.svg" style="width: 415px;">
  </a>
  <a href="https://github.com/Cleber-Sanches/Api-Animes"><img src="https://github.com/Cleber-Sanches/Cleber-Sanches/blob/main/card-api-animes.svg" style="width: 415px;">
   
