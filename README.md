@@ -61,7 +61,7 @@ br>
 <h3 align="center">Estudando</h3>
 
 <p align="center">
-  <img src="https://www.aikonbox.com.br/icons?i=typescript,reactjs&size=55"/>
+  <img src="https://www.aikonbox.com.br/icons?i=typescript,reactjs,jest&size=55"/>
 </p>
 
 <h3 align="center">Quero estudar</h3>
